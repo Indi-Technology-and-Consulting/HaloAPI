@@ -1,4 +1,4 @@
-﻿using module ..\Classes\HaloLookup.psm1
+using module ..\Classes\HaloLookup.psm1
 using module ..\Classes\Completers\HaloAuthScopesCompleter.psm1
 using module ..\Classes\Validators\HaloAuthScopesValidator.psm1
 #Requires -Version 7
